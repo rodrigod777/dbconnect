@@ -1,9 +1,9 @@
 var objoracle = require('oracledb');
 
 cns = {
-	user: "FINTERRA",
-	password: "FINTERRA",
-	connectString: "74.208.98.86/finteqa17"
+	user: "",
+	password: "",
+	connectString: ""
 };
 
 function error(err,rs,cn){
